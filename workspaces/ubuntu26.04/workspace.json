@@ -7,10 +7,10 @@
   "architecture": ["amd64"],
   "compatibility": [
     {
-      "version": "1.0.0",
+      "version": "1.19.x",
       "image": "custom-kasm:v1",
       "uncompressed_size_mb": 3950,
-      "available_tags": ["v1"]
+      "available_tags": ["develop"]
     }
   ]
 }
