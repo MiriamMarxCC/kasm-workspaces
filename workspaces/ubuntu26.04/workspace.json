@@ -1,0 +1,16 @@
+{
+  "description": "Ubuntu.",
+  "docker_registry": "g3c7g31w.gra7.container-registry.ovh.net/library",
+  "image_src": "ubuntu26.04.png",
+  "categories": ["Development"],
+  "friendly_name": "Ubuntu",
+  "architecture": ["amd64"],
+  "compatibility": [
+    {
+      "version": "v1",
+      "image": "custom-kasm:v1",
+      "uncompressed_size_mb": 3950,
+      "available_tags": ["v1"]
+    }
+  ]
+}
