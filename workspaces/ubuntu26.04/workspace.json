@@ -10,7 +10,7 @@
       "version": "1.19.x",
       "image": "custom-kasm:v1",
       "uncompressed_size_mb": 3950,
-      "available_tags": ["develop"]
+      "available_tags": ["v1"]
     }
   ]
 }
