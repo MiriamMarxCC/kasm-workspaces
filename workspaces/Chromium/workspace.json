@@ -13,22 +13,22 @@
       "cmd": "bash -c '/dockerstartup/custom_startup.sh --assign --url \"$KASM_URL\"'"
     }
   },
-  "categories": [
-    "Browser"
-  ],
+  "categories": ["Browser"],
   "friendly_name": "Chromium",
-  "architecture": [
-    "amd64",
-    "arm64"
-  ],
+  "architecture": ["amd64", "arm64"],
   "compatibility": [
     {
       "version": "1.17.x",
       "image": "kasmweb/chromium:develop",
       "uncompressed_size_mb": 2170,
-      "available_tags": [
-        "develop"
-      ]
+      "available_tags": ["develop"]
+    },
+    {
+      "version": "1.19.x",
+      "image": "kasmweb/chromium:develop",
+      "uncompressed_size_mb": 2170,
+      "available_tags": ["develop"]
     }
   ]
 }
+
