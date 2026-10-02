@@ -8,9 +8,9 @@
   "compatibility": [
     {
       "version": "1.19.x",
-      "image": "g3c7g31w.gra7.container-registry.ovh.net/library/custom-kasm@sha256:e092ae69a42de51010fbce61d8880c20d2d11abcba26a5c9e56ee4967b3e6109",
+      "image": "g3c7g31w.gra7.container-registry.ovh.net/library/custom-kasm:v1",
       "uncompressed_size_mb": 3950,
-      "available_tags": ["develop"]
+      "available_tags": ["v1"]
     }
   ]
 }
