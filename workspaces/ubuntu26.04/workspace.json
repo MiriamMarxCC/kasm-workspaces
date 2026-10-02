@@ -1,6 +1,6 @@
 {
   "description": "Ubuntu.",
-  "docker_registry": "https://g3c7g31w.gra7.container-registry.ovh.net/library",
+  "docker_registry": "https://g3c7g31w.gra7.container-registry.ovh.net/library/",
   "image_src": "ubuntu26.04.png",
   "categories": ["Development"],
   "friendly_name": "Ubuntu",
